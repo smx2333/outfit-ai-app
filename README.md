@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 Run the app:
 
-streamlit run app.py
+streamlit run project_v1.py
 
 
 How to Use
